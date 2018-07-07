@@ -7,11 +7,11 @@
 4. Schedule
 5. Criteria
 
-## Necessities
+## 1. Necessities
 * Ensure that participants are capable of communicating properly(link) with their audience 
 * In the event of multiple presenters, ensure coherence in style and content 
 
-## Priorities
+## 2. Priorities
 
 Identify practices that:
 1) lead to false understanding
@@ -19,9 +19,9 @@ Identify practices that:
 3) increase cognitive load on audience
 4) are potentially annoying and irritating 
 
-## ESL Skills
+### ESL Skills
 
-ensure that presenter can: 
+Ensure that presenter can: 
 1) use basic verb tenses
 2) describe and contextualize data and graphs
 3) understands and can properly use domain-specific terminology 
@@ -43,11 +43,11 @@ Confidence of the presenter:
 
 Personability of the presenter:
 * greeting
-* Voice (rhythm, volume, pitch)
-* Body language (active and resting, hands, hips, leg distance, head position
-* Posture 
-* Eye Contact
-* Dress
+* voice (rhythm, volume, pitch)
+* body language (active and resting, hands, hips, leg distance, head position
+* posture 
+* eye Contact
+* dress
 
 Personability of the presentation:
 * storytelling devices
@@ -78,7 +78,7 @@ There are a multitude of factors that must be internalized to calibrate attitude
         * "How are they expected to respond professionally to the information presented?"  
         
 #### B) Structural Coherence
-Proper argumentation and easily digestible flow of ideas are both essential to giving an effective presentation 
+Rigorously structured argumentation and easily digestible flow of ideas are both essential to giving a good presentation
 
   * Does the presentation include transition slides and key idea (introductory, conclusion) slides?
   * Do the ideas unfold according to expected semantic structures?
