@@ -14,6 +14,19 @@
 ## Priorities
 A detailed checklist of the aspects of the presenter's delivery that require attention by the specialist
 
+Identify practices that:
+1) lead to false understanding
+2) lead to reduced understanding
+3) increase cognitive load on audience
+4) are potentially annoying and irritating 
+
+## ESL Skills
+ensure that presenter can 
+1) use basic verb tenses
+2) describe and contextualize data and graphs
+3) understands and can properly use domain-specific terminology 
+For further details, See (link) Criteria for Baseline Fluency
+
 ### Soft Skills
 
 Audience engagement determines audience comprehension
