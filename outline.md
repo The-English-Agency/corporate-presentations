@@ -19,7 +19,13 @@ Identify practices that:
 3) increase cognitive load on audience
 4) are potentially annoying and irritating 
 
-### ESL Skills
+Aspects of Concern:
+1) Communication skills of the presenter
+2) Structural and conceptual coherence of the presentation
+3) Design decisions of the presentation
+
+### 1) Communication skills
+#### ESL Skills
 
 Ensure that presenter can: 
 1) use basic verb tenses
@@ -55,7 +61,7 @@ Personability of the presentation:
 * visual aids
 * information calibrated to technical depth and expectations of audience
 
-### Presentation Coherence
+### 2. Presentation Coherence
 
 #### A) Overall Coherence
 There are a multitude of factors that must be internalized to calibrate attitudes, content, and presentation style
@@ -87,13 +93,12 @@ Rigorously structured argumentation and easily digestible flow of ideas are both
   
 #### C) Slide by Slide Analysis
 
-#### D) Design Decisions
+#### 3) Design Decisions
 Critera:
-Must follow UX best practices 
- (Information Hiearchy respected by elements in a slide)
-Must follow visual design best practices
-eg: relationship of elements communicated through space, spacing, color, contrast, size, and composition
-Check resolution of Images
+*Must follow UX best practices 
+ e.g.: Information Hiearchy respected by elements in a slide)
+*Must follow visual design best practices
+-e.g.: relationship of elements communicated through space, spacing, color, contrast, size, and composition
 
 
 ## Activities
