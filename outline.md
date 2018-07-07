@@ -7,24 +7,27 @@
 4. Schedule
 5. Criteria
 
-## 1. Necessities
+## A. Necessities
 * Ensure that participants are capable of communicating properly(link) with their audience 
 * In the event of multiple presenters, ensure coherence in style and content 
 
-## 2. Priorities
+## B. Priorities
 
-Identify practices that:
+It is the responsibility of the presenter to 
+identify and take measures to correct
+practices of the presenter that:
+
 1) lead to false understanding
 2) lead to reduced understanding
 3) increase cognitive load on audience
 4) are potentially annoying and irritating 
 
-Aspects of Concern:
+Aspects of Concern of concern that may lead to :
 1) Communication skills of the presenter
 2) Structural and conceptual coherence of the presentation
 3) Design decisions of the presentation
 
-### 1) Communication skills
+### 1. Communication skills
 #### ESL Skills
 
 Ensure that presenter can: 
@@ -33,7 +36,7 @@ Ensure that presenter can:
 3) understands and can properly use domain-specific terminology 
 For further details, See (link) Criteria for Baseline Fluency
 
-### Soft Skills
+#### Soft Skills
 
 Audience engagement determines audience comprehension
 
@@ -63,7 +66,7 @@ Personability of the presentation:
 
 ### 2. Presentation Coherence
 
-#### A) Overall Coherence
+#### Overall Coherence
 There are a multitude of factors that must be internalized to calibrate attitudes, content, and presentation style
 
   * Guiding Questions 
@@ -83,7 +86,7 @@ There are a multitude of factors that must be internalized to calibrate attitude
         * "How will they react to the conclusions and sentiment?"
         * "How are they expected to respond professionally to the information presented?"  
         
-#### B) Structural Coherence
+#### Structural Coherence
 Rigorously structured argumentation and easily digestible flow of ideas are both essential to giving a good presentation
 
   * Does the presentation include transition slides and key idea (introductory, conclusion) slides?
@@ -91,9 +94,9 @@ Rigorously structured argumentation and easily digestible flow of ideas are both
   Example: (Proposition P) -> ( Supporting Argument A (Details) ) ( Supporting Argument B (Details) ) = (Meaningful Connection that supports or elucidates Proposition P)
   
   
-#### C) Slide by Slide Analysis
+#### Slide by Slide Analysis
 
-#### 3) Design Decisions
+#### 3. Design Decisions
 Critera:
 *Must follow UX best practices 
  e.g.: Information Hiearchy respected by elements in a slide)
@@ -101,7 +104,7 @@ Critera:
 -e.g.: relationship of elements communicated through space, spacing, color, contrast, size, and composition
 
 
-## Activities
+## C. Activities
 
 *Identify and itemize inadequencies for each presenter
 *Sort errors based on priority
