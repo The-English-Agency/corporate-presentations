@@ -12,14 +12,23 @@
 *In the event of multiple presenters, ensure coherence in style and content 
 
 ## Priorities
-
+A detailed checklist of the aspects of the presenter's delivery that require attention by the specialist
 
 ### Soft Skills
 
-1. flow of the speaker
-2. engagement of the audience
-3. confidence of the speaker
-Important Elements
+Audience engagement determines audience comprehension
+
+4 factors that determine audience engagement:
+1. flow of the presenter
+2. confidence of the presenter
+3. personability of the presenter
+4. personability of the presentation 
+
+Flow of the presenter: 
+
+Confidence of the presenter:
+
+Personability of the presenter:
 * greeting
 * Voice (rhythm, volume, pitch)
 * Body language (active and resting, hands, hips, leg distance, head position
@@ -27,6 +36,11 @@ Important Elements
 * Eye Contact
 * Dress
 
+Personability of the presentation:
+* storytelling devices
+* humane contextualization
+* visual aids
+* information calibrated to technical depth and expectations of audience
 
 ### A) Overall Coherence
 There are a multitude of factors that must be internalized to calibrate attitudes, content, and presentation style
