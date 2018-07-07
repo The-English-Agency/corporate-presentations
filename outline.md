@@ -8,11 +8,10 @@
 5. Criteria
 
 ## Necessities
-*Ensure that participants are capable of communicating properly(link) with their audience 
-*In the event of multiple presenters, ensure coherence in style and content 
+* Ensure that participants are capable of communicating properly(link) with their audience 
+* In the event of multiple presenters, ensure coherence in style and content 
 
 ## Priorities
-A detailed checklist of the aspects of the presenter's delivery that require attention by the specialist
 
 Identify practices that:
 1) lead to false understanding
@@ -21,7 +20,8 @@ Identify practices that:
 4) are potentially annoying and irritating 
 
 ## ESL Skills
-ensure that presenter can 
+
+ensure that presenter can: 
 1) use basic verb tenses
 2) describe and contextualize data and graphs
 3) understands and can properly use domain-specific terminology 
@@ -55,7 +55,9 @@ Personability of the presentation:
 * visual aids
 * information calibrated to technical depth and expectations of audience
 
-### A) Overall Coherence
+### Presentation Coherence
+
+#### A) Overall Coherence
 There are a multitude of factors that must be internalized to calibrate attitudes, content, and presentation style
 
   * Guiding Questions 
@@ -75,7 +77,7 @@ There are a multitude of factors that must be internalized to calibrate attitude
         * "How will they react to the conclusions and sentiment?"
         * "How are they expected to respond professionally to the information presented?"  
         
-### B) Structural Coherence
+#### B) Structural Coherence
 Proper argumentation and easily digestible flow of ideas are both essential to giving an effective presentation 
 
   * Does the presentation include transition slides and key idea (introductory, conclusion) slides?
@@ -83,9 +85,9 @@ Proper argumentation and easily digestible flow of ideas are both essential to g
   Example: (Proposition P) -> ( Supporting Argument A (Details) ) ( Supporting Argument B (Details) ) = (Meaningful Connection that supports or elucidates Proposition P)
   
   
-### C) Slide by Slide Analysis
+#### C) Slide by Slide Analysis
 
-### D) Design Decisions
+#### D) Design Decisions
 Critera:
 Must follow UX best practices 
  (Information Hiearchy respected by elements in a slide)
