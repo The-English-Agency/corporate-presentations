@@ -22,7 +22,7 @@ practices of the presenter that:
 3) increase cognitive load on audience
 4) are potentially annoying and irritating 
 
-Aspects of Concern of concern that may lead to :
+Aspects of Concern:
 1) Communication skills of the presenter
 2) Structural and conceptual coherence of the presentation
 3) Design decisions of the presentation
@@ -75,7 +75,7 @@ There are a multitude of factors that must be internalized to calibrate attitude
         * "What is the primary conclusion"
         * "What is the sentiment of the conclusion?
         * "What are the potential pitfalls of the conclusions and sentiments?"
-        * "Where will the presentation be held (location) and what are it's features?"
+        * "Where will the presentation be held (location) and what are its features?"
         * "How many people will be present"
         
       - Know you audience
@@ -91,7 +91,7 @@ Rigorously structured argumentation and easily digestible flow of ideas are both
 
   * Does the presentation include transition slides and key idea (introductory, conclusion) slides?
   * Do the ideas unfold according to expected semantic structures?
-  Example: (Proposition P) -> ( Supporting Argument A (Details) ) ( Supporting Argument B (Details) ) = (Meaningful Connection that supports or elucidates Proposition P)
+  Example: (Proposition P) -> ( Supporting Argument A (Details) ) ( Supporting Argument B (Details) ) = (Meaningful Connection C between Supporting Argument A and Supporting Argument B that supports or elucidates Proposition P)
   
   
 #### Slide by Slide Analysis
